@@ -1,4 +1,5 @@
 Hi, I’m Florian, a Computer Science graduate from Leibniz University Hannover👋
+
 I enjoy building small tools, experimenting with code, and learning something new every day.
 I'm currently working on a small game for Pomodoro sessions on Android🎮
 
